@@ -47,7 +47,6 @@ tags: [토이프로젝트, 바이브코딩, 웹앱]
 
 **나노 바나나 프롬프트 참고**: [https://tigerjk9.github.io/ai/nano-banana/](https://tigerjk9.github.io/ai/nano-banana/)
 
-![원본 사진과 변환된 사진 비교](/assets/lifepanorama.png)
 
 ### 🚀 마치며
 
