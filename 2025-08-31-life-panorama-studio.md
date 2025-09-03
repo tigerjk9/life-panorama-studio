@@ -54,4 +54,4 @@ tags: [토이프로젝트, 바이브코딩, 웹앱]
 
 * 🌐 **라이브 데모**: [https://life-panorama.netlify.app/](https://life-panorama.netlify.app/)
 * 🌐 **유사 토이 프로젝트**: [nostalgia-photo-studio.netlify.app](https://nostalgia-photo-studio.netlify.app)
-* 나노 바나나 프롬프트 참고**: [https://tigerjk9.github.io/ai/nano-banana/](https://tigerjk9.github.io/ai/nano-banana/)
+* 🌐 **나노 바나나 프롬프트 참고**: [https://tigerjk9.github.io/ai/nano-banana/](https://tigerjk9.github.io/ai/nano-banana/)
